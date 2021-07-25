@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Ecommerce website
+<b><h1>Ecommerce website</h1></b>
+<br>
 This is internshala's training project. The website is about buying and selling products where you can add products to card and generate your order

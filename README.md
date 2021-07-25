@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Ecommerce website
+This is internshala's training project. The website is about buying and selling products where you can add products to card and generate your order
